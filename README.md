@@ -1,2 +1,2 @@
-# ReservaVuelos
-Reserva de vuelos en JAVA
+# RESERVA DE VUELOS
+Curso Programacion Orientada a objetos
